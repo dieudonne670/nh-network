@@ -18,7 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/DRF- A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+    <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML CSS JavaScript" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
